@@ -11,7 +11,7 @@ namespace dllTestProj
 
         public string AddString(string str)
         {
-            str = str + "_dll_Test_Return@@@@@@";
+            str = str + "_dll_Test_Return@@@@@@@";
 
             return str;
         }
